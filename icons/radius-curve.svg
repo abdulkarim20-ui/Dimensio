@@ -1,0 +1,18 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 24 24"
+  fill="none"
+  stroke="#FFFFFF"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+>
+  <!-- Corner arcs -->
+  <path d="M7 4H4V7" />
+  <path d="M17 4H20V7" />
+  <path d="M4 17V20H7" />
+  <path d="M20 17V20H17" />
+
+  <!-- Inner shape: left + bottom with stronger curve -->
+  <path d="M7 7V13A4 4 0 0 0 11 17H17" />
+</svg>
