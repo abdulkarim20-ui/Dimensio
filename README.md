@@ -65,19 +65,13 @@ One of Dimensio's most powerful assets is the **Blueprint Wireframe** exporter.
     *   **The Use Case**: Measure the exact "Gutter" or "Padding" between a Sidebar and a Main Content frame in one click. It removes the manual math of subtracting X/Y coordinates.
 *   **Independent Corner Radii**: Match modern design systems with per-corner curve controls (Square to Circle).
 
-<div align="center">
-  <img src="docs/smart%20guide.gif" alt="Smart Guides in Action" width="85%"/>
-</div>
-<br/>
-<div align="center">
-  <img src="docs/frames%20gap.png" alt="Dynamic Distancing & Gap Measurement" width="85%"/>
-</div>
-<br/>
+### 4. Advanced Project Persistence
+Dimensio isn't just a measurement tool; it's a workspace manager.
+*   **New Workspace (`Ctrl + Shift + N`)**: Instantly clear your canvas for a fresh audit. Ideal for rapid context switching between different pages.
+*   **Atomic Save (`Ctrl + S`)**: Save your precise drafting work into the proprietary **`.dio`** format. It captures every coordinate, radius, and color classification.
+*   **Project Import (`Ctrl + O`)**: Re-open previous designs to resume work exactly where you left off. This is crucial for verifying UI changes over time or sharing design specs with a team.
+*   **Why It Matters**: This feature bridges the gap between a temporary overlay and a permanent design record. Your spatial audits are no longer lost when you close the app.
 
-<div align="center">
-  <img src="docs/radius%20curve.png" alt="Radius Controls" width="40%"/>
-</div>
-<br/>
 <div align="center">
   <img src="docs/advance%20ui%20options.png" alt="Advanced UI" width="40%"/>
 </div>
